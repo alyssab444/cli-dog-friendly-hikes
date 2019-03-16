@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require "./lib/dog-hikes"
+
+
+DogHikes::HikeController.new.call 
