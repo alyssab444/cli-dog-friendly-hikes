@@ -1,6 +1,9 @@
 #!/usr/bin/env ruby
 
-require "./lib/dog-hikes"
+
+require "./lib/dog_hikes"
+DogHikes::CLI.new.call   
 
 
-DogHikes::HikeController.new.call 
+
+ 
