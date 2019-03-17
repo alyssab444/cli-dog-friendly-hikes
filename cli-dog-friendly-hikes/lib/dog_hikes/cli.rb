@@ -5,4 +5,3 @@ class DogHikes::CLI
     puts "Dog Friendly Hikes:"
   end  
   
-end 
